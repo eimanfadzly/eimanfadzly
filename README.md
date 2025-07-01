@@ -4,40 +4,27 @@
   Final-year CS student at RMIT · Full-Stack Dev · Hackathon Enthusiast 💻
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
+
 ---
+I’m a curious and creative dev who enjoys writing clean code, designing interfaces that feel nice to use, and building things that people actually enjoy. I’ve worked on all sorts of stuff — from train simulations in Java to music platforms and journaling apps with quests. I like learning by doing and figuring things out along the way (even if it means breaking stuff a few times).
 
-🌱 I’m currently learning:  
-- Cloud Computing ☁️  
-- Machine Learning 🤖  
-- Scalable Backend Systems 🧠  
+🚀 Currently exploring: Cloud computing, backend architecture, and all things JavaScript + TypeScript. Always keen on picking up new tools and frameworks just for the fun of it.
 
-🔨 Projects I’m proud of:
-- 🎵 [MusicalMoon](https://github.com/yourrepo) — A music collab platform built for real-time creativity.  
-- 🧠 [Green Railway Sim](https://github.com/yourrepo) — An energy-efficient train simulation in Java.  
-- 🎯 [Mira](https://github.com/yourrepo) — A quest-based journaling app for mental wellness.
+⚡ Fun fact: I write better commit messages than texts to my friends.
 
 📫 How to reach me:
 - 📧 eimanfadzly@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🌐 [My Portfolio](https://yourportfolio.com) (if you have one)
-
----
-
-### 📊 GitHub Stats
-
-![Fadzly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eimanfadzly&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eimanfadzly&layout=compact&theme=tokyonight)
-
----
-
-### ✨ Fun Facts
-- I love crafting UI/UX that feels smooth and modern 🧑‍🎨
-- Participated in multiple hackathons (UNIHACK, etc.) 🚀
-- Currently exploring AI tools and next-gen web tech 🧠
+- 💼 [LinkedIn](https://www.linkedin.com/in/fadzly-eiman-2b4440247/)  
+- 🌐 [My Portfolio](https://yourportfolio.com)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimanfadzly&layout=compact&theme=tokyonight" />
 </p>
+
+
+---
