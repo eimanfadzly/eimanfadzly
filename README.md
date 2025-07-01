@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWYxdjhpdjI4M2w5MmV3NnZrdGNhbHp2bGw0Y2w5ajI0Nm9hZnJ5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="300">
 </p>
 
 ---
@@ -18,7 +18,7 @@ I’m a curious and creative dev who enjoys writing clean code, designing interf
 📫 How to reach me:
 - 📧 eimanfadzly@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/fadzly-eiman-2b4440247/)  
-- 🌐 [My Portfolio](https://yourportfolio.com)
+- 🌐 [My Portfolio](https://fadzlyeiman.com)
 
 ---
 
