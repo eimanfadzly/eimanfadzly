@@ -18,13 +18,9 @@
 
 ### A little about me
 
-I'm a Computer Science graduate from RMIT University based in Melbourne.
-
-I started out in front-end development before moving into ERP consulting, where I worked with clients, developers and operations teams to understand problems, troubleshoot system issues and help keep technology projects moving.
-
-That experience made me realise that I really enjoy working somewhere between **technology and people** — understanding how things work, figuring out what's going wrong and finding practical ways to solve it.
-
-I'm currently building on my experience across software, business systems and technology consulting, while working on a few projects of my own.
+Hi, I'm Fadz! I'm a Computer Science graduate from RMIT University, based in Melbourne.
+I started out in front-end development before moving into ERP consulting. I enjoy working with technology, solving problems and working with people along the way.
+Still learning, still figuring things out, and seeing where tech takes me :)
 
 ### What I've worked with
 
