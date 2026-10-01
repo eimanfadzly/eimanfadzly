@@ -26,12 +26,6 @@ Still learning, still figuring things out, and seeing where tech takes me :)
 
 `JavaScript` · `HTML` · `CSS` · `Python` · `SQL` · `Git` · `Odoo ERP`
 
-### Outside of code
-
-🏃 Usually running somewhere around Melbourne  
-🍪 Occasionally baking more cookies than I need  
-🎬 Probably watching a movie that required me to watch three prequels first
-
 ### Find me
 
 🌐 [Portfolio](https://fadzlyeiman.com)  
